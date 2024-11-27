@@ -14,8 +14,8 @@ h1{
 }
 img:hover {
 	 
-  border-radius: 8px;
-  box-shadow: 0 0 3px 5px rgba(0, 140, 186, 0.5);
+	  border-radius: 8px;
+	  box-shadow: 0 0 3px 5px rgba(0, 140, 186, 0.5);
 }
 body{ 
 	font-family:Arial;
@@ -23,7 +23,7 @@ body{
 }
 
 li{
-font-size:24;	
+	font-size:22;	
 }
 
 button{
@@ -35,10 +35,13 @@ button{
 	font-size:24;	
 }
 button:hover{
- border-radius: 8px;
-  box-shadow: 0 0 3px 5px rgba(0, 140, 186, 0.5);	
+ 		border-radius: 8px;
+ 		 box-shadow: 0 0 3px 5px rgba(0, 140, 186, 0.5);	
 }
 p{
-font-size:18;		
+	font-size:16;		
+}
+span{
+	font-size:16;	
 }
 
