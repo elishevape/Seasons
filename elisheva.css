@@ -45,6 +45,8 @@ span{
 	font-size:14;	
 }
 
-button{
-	margin: 50px 100px;
+img {
+  display:block;
+  margin-right: auto;
+  margin-left: auto; 
 }
