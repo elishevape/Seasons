@@ -33,9 +33,7 @@ button{
 	text-align:center;
 	padding: 30px 20px;
 	font-size:24;
-	  width: 300px;
-	  margin-right: auto;
-	  margin-left: auto;
+	
 }
 button:hover{
  		border-radius: 8px;
@@ -46,5 +44,11 @@ p{
 }
 span{
 	font-size:16;	
+}
+
+.block_center {
+  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
