@@ -27,6 +27,9 @@ li{
 }
 
 button{
+	  width: 300px;
+  margin-right: auto;
+  margin-left: auto;
 	color:brown;
 	background-color:rgb(146, 165,61);
 	font-family:Arial;
@@ -47,8 +50,6 @@ span{
 }
 
 .block_center {
-  width: 300px;
-  margin-right: auto;
-  margin-left: auto;
+
 }
 
