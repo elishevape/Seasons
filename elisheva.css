@@ -32,7 +32,8 @@ button{
 	font-family:Arial;
 	text-align:center;
 	padding: 30px 20px;
-	font-size:24;	
+	font-size:24;
+	align:center;
 }
 button:hover{
  		border-radius: 8px;
